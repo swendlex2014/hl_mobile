@@ -26,7 +26,7 @@ Credit
 Author
 ------
 Wendly Saintil  
-[website] http://wspecs.com
+[website] (http://wspecs.com)
 
 Legal
 ------------------
