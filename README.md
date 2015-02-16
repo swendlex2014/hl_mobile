@@ -13,7 +13,14 @@ Author
 Wendly Saintil  
 [website] http://wspecs.com
 
-Boring legal stuff
+Installation
+--------------
+```
+$ npm install
+$ grunt
+```
+
+Legal
 ------------------
 
 Copyright (c) 2011-2014, Wendly Saintil
