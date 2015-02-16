@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.ionicangular358580" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>ionic_angular</name>
+  <name>Hymnes Et Louanges</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Cette application web contient toutes les paroles du livre « Hymnes & Louanges». Vous pouvez rechercher des chansons spécifiques numérique ou alphabétique. Vous pouvez également utiliser cette application pour créer des diapositives pour les chansons sélectionnées.
     </description>
   <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+      Wendly Saintil
     </author>
   <content src="index.html"/>
   <access origin="*"/>
