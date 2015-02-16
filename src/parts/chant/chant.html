@@ -1,0 +1,8 @@
+<ion-view view-title="{{chant.t}}" id="page">
+<ion-content class="padding" on-swipe-left="swipeLeft()" on-swipe-right="swipeRight();"> 
+<div ng-repeat="w in chant.parts">
+	<h4>{{w.p}}</h4>
+	<p><span ng-bind-html="w.c"></span></p>
+</div>
+</ion-content>
+</ion-view>
