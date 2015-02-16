@@ -7,12 +7,6 @@ Online Website
 ----------------
 [Online Link] (http://wspecs.com/hl)
 
-
-Author
-------
-Wendly Saintil  
-[website] http://wspecs.com
-
 Installation
 --------------
 ```
@@ -20,6 +14,19 @@ $ npm install
 $ grunt
 ```
 goto http://http://localhost:7777/ to see local changes
+
+Credit
+------
+* AngularJs
+* Phonegap
+* Ionic
+* GruntJs
+* NodeJS 
+
+Author
+------
+Wendly Saintil  
+[website] http://wspecs.com
 
 Legal
 ------------------
