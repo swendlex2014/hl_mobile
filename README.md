@@ -13,7 +13,7 @@ Installation
 $ npm install
 $ grunt
 ```
-goto http://http://localhost:7777/ to see local changes
+goto **http://http://localhost:7777/** to see local changes
 
 Credit
 ------
